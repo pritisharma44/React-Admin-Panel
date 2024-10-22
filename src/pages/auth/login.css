@@ -1,0 +1,41 @@
+.login-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #e0f7fa;
+}
+
+.login-box {
+  width: 400px;
+  padding: 40px;
+  background-color: white;
+  box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  text-align: center;
+}
+
+.login-title {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+
+.login-subtitle {
+  font-family: 'Roboto', sans-serif;
+  margin-bottom: 30px;
+  color: gray;
+}
+
+.login-button {
+  background-color: #1976d2;
+  color: white;
+  margin-top: 20px;
+}
+
+.login-footer {
+  margin-top: 30px;
+  color: gray;
+  font-size: 12px;
+}
+
